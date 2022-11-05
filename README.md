@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @martthekiller
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning how to code and hack
+- 📫 How to reach me:
